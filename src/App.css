@@ -1,6 +1,27 @@
+body {
+  overflow-x: hidden;
+  background-image: linear-gradient( #e6d3f2, rgba(20, 20, 20, 0.151));
+}
+
+span {
+  color: red;
+}
+
 .App {
   text-align: center;
 }
+
+  {
+  /* This color for button in whole webpage*/
+}
+
+.btn-primary {
+  background-color: rgba(255, 0, 0, 0.897);
+  border: none;
+  font: bolder;
+  /* background-image: linear-gradient(gray,gray); */
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -32,6 +53,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

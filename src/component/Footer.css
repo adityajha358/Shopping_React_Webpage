@@ -1,0 +1,22 @@
+.footermain{
+    background-color:rgb(49, 48, 48);
+    color: white;
+}
+
+.card-body i{
+    padding-left: 5px;
+    padding-right: 5px;
+   
+}
+
+.footericon {
+    margin-left: 20px;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.678);
+    border: none;
+}
+
+.card-footer{
+    background-color: rgba(255, 0, 0, 0.459);
+    color: white !important;
+}

@@ -1,0 +1,58 @@
+.cardmain {
+    margin-top: 5vh;
+    margin-bottom: 0vh;
+}
+.cardmain h3{
+    font-size: 8vmin;
+    text-align: center;
+}
+.cardrow1 {
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.card{
+    background-color: transparent;
+    border: none;
+}
+
+.cardrow1 .col-md-2 {
+    border-radius: 10px;
+
+}
+
+.cardrow1 img {
+    width: 100%;
+}
+
+.cardrow2 {
+    text-align: center;
+    
+}
+
+.card-text {
+    color: gray;
+}
+
+
+
+.cardrow3 {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+/* .thirdmain .btn-primary{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2000px;
+} */
+
+.form-switch{
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.form-check-input{
+    margin-right: 5px;
+}
